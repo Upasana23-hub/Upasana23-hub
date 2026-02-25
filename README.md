@@ -1,3 +1,3 @@
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Upasana23-hub&hide_border=false)
+![Upasana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Upasana23-hub&show_icons=true)
